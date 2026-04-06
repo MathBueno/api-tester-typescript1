@@ -1,11 +1,11 @@
 # API Tester (TypeScript)
 
-Simple project to simulate QA workflows and API testing.
+Simple API testing tool built with TypeScript to simulate QA workflows and debugging scenarios.
 
 ## Features
-- API request
-- Error handling
-- Debugging logs
+- Makes API requests
+- Handles errors
+- Logs responses
 
 ## Purpose
-This project was built as part of my transition into QA Engineering and Product Support.
+This project is part of my transition into QA Engineering and Product Support, focusing on debugging and testing workflows.
